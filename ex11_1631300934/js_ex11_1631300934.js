@@ -35,4 +35,4 @@ document.getElementById("ex11-3-5").innerHTML = lorem.replace(/Ipsum/g, "แท�
 //(5) toUpperCase() 
 document.getElementById("ex11-3-6").innerHTML = lorem.toUpperCase();
 //(6) toLowerCase() 
-document.getElementById("ex11-3-7").innerHTML = lorem.toLowerCase();
+document.getElementById("ex11-3-7").innerHTML = lorem.toLowerCase(); 33
