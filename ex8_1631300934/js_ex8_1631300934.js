@@ -3,7 +3,7 @@
 
 //Ex8.1 Strings
 let text1 = "Hello";
-let text2 = "My name is 'Aj.NesT'";
+let text2 = "My name is 'Sirapatson Imkrajang'";
 let text3 = 'Nice to meet you "JavaScrip Man"';
 document.getElementById("ex8-1").innerHTML =
 text1 + "<br>" + text2 + "<br>" + text3;
